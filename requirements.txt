@@ -3,4 +3,8 @@ gunicorn
 fastapi
 uvicorn[standard]
 python-dotenv
+sqlalchemy
+psycopg2-binary
+Pillow
+python-multipart
 
